@@ -26,3 +26,6 @@ The project follows these steps:
 
 5. **Visualization**:
    - Visualize the selected candidate counties on a map using Folium.
+  
+To view the interactive maps, download the HTML file for map1 from [here](https://github.com/zerrynlh/Starbucks-Geospatial_Analysis/blob/main/map1.html) and map2 [here](https://github.com/zerrynlh/Starbucks-Geospatial_Analysis/blob/main/map2.html). The files can be opened in a web browser.
+
